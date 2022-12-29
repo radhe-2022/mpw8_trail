@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1672311119
+timestamp 1672346171
 << nwell >>
 rect 1066 77509 78882 77830
 rect 1066 76421 78882 76987
@@ -241,7 +241,7 @@ string FIXED_BBOX 0 0 80000 80000
 string LEFclass BLOCK
 string LEFview TRUE
 string GDS_END 11979850
-string GDS_FILE /home/radhe/project/matrix_multiply_mpw8/openlane/matrix_multiply/runs/22_12_29_16_09/results/signoff/matrix_multiply.magic.gds
+string GDS_FILE /home/radhe/project/mpw8_trail/openlane/matrix_multiply/runs/22_12_30_01_54/results/signoff/matrix_multiply.magic.gds
 string GDS_START 809888
 << end >>
 
